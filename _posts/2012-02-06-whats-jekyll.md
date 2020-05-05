@@ -13,10 +13,8 @@ title: Saurabh's Home page
 2011 - 2015 
       
     Ph.D. in Physics
-
     Harish-Chandra Research Institute, India
-    
-    
+      
  2005 - 2008
  
     B.Sc. in Physics
