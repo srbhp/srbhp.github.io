@@ -9,7 +9,7 @@ title: About
 
 Some recent and ongoing research topics include:
 
-- \*\*\*Magnetic Impurities in a superconductor.
+- Magnetic Impurities in a superconductor.
 - Impurities Topological Insulator
 - Collective modes in a disordered superconductor
 
