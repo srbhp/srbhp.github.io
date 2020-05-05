@@ -3,7 +3,7 @@ layout: post
 title: Saurabh's Home page
 ---
 
-# Education 
+### Education 
 
 2015 - 2020      
 
