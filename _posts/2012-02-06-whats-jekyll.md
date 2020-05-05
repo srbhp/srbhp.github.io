@@ -6,8 +6,8 @@ title: Saurabh's Home page
 # Education 
 
 2015 - 2020      
-  * Postdoctoral Fellow
-  * Uppsala University, Sweden
+  > Postdoctoral Fellow
+  > Uppsala University, Sweden
    
 2011 - 2015 Ph.D. in Physics
 
