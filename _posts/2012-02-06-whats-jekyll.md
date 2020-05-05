@@ -1,12 +1,16 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Saurabh's Home page
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
-
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool and one we encourage you to use here with Hyde.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+ * 2015 - 2020  Education
+   Postdoctoral Fellow
+   Uppsala University, Sweden
+*  2011 - 2015 Ph.D. in Physics
+    Harish-Chandra Research Institute, India
+* 2008 - 2011 M.Sc. in Physics
+    Harish-Chandra Research Institute, India
+* 2005 - 2008
+  B.Sc. in Physics
+  Ramakrishna Mission Vidyamandira
+  Belur Math
