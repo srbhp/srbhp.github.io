@@ -3,6 +3,18 @@ layout: post
 title: Saurabh's Home page
 ---
 
+
+<p class="message">
+ I am a postdoctoral researcher at Uppsala University in Prof. Jonas Fransson's group. Currently, I am visiting the Freie Universität, Berlin.   
+</p>
+
+Some recent and ongoing research topics include:
+
+- Magnetic Impurities in a superconductor.
+- Impurities Topological Insulator
+- Collective modes in a disordered superconductor
+
+
 ### Education 
 
 2015 - 2020      
@@ -20,3 +32,12 @@ title: Saurabh's Home page
     B.Sc. in Physics
     Ramakrishna Mission Vidyamandira
     Belur Math
+
+
+## Contact
+
+### Emails
+
+Gmail : pradhanphy
+
+(You have to guess the @'part )
