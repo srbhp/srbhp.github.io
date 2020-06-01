@@ -15,24 +15,28 @@ Some recent and ongoing research topics include:
 - Collective modes in a disordered superconductor
 
 
-### Education 
+### Educational Qualifications
 
-2015 - 2020      
 
-    Postdoctoral Fellow
-    Uppsala University, Sweden
-   
-2011 - 2015 
-      
-    Ph.D. in Physics
-    Harish-Chandra Research Institute, India
-      
  2005 - 2008
  
     B.Sc. in Physics
     Ramakrishna Mission Vidyamandira
     Belur Math
 
+2008 - 2015 
+      
+    Integrated Ph.D. in Physics
+    Harish-Chandra Research Institute, India
+      
+
+### Work Experience
+
+2015 - 2020      
+
+    Postdoctoral Fellow
+    Uppsala University, Sweden
+   
 
 ## Contact
 
