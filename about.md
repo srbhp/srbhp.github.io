@@ -3,8 +3,10 @@ layout: page
 title: About
 ---
 
+
+
 <p class="message">
- I am a postdoctoral researcher at Uppsala University in Prof. Jonas Fransson's group. Currently, I am visiting the Freie Universität, Berlin.   
+I am a postdoctoral researcher at Uppsala University in Prof. Jonas Fransson's group. Currently, I am visiting the Freie Universität, Berlin.
 </p>
 
 Some recent and ongoing research topics include:
@@ -13,6 +15,30 @@ Some recent and ongoing research topics include:
 - Impurities Topological Insulator
 - Collective modes in a disordered superconductor
 
+
+### Educational Qualifications
+
+
+2005 - 2008
+
+B.Sc. in Physics
+Ramakrishna Mission Vidyamandira
+Belur Math
+
+2008 - 2015
+
+Integrated Ph.D. in Physics
+Harish-Chandra Research Institute, India
+
+
+### Work Experience
+
+11.2015 - 01.2020
+
+Postdoctoral Fellow
+Uppsala University, Sweden
+
+
 ## Contact
 
 ### Emails
@@ -20,3 +46,5 @@ Some recent and ongoing research topics include:
 Gmail : pradhanphy
 
 (You have to guess the @'part )
+
+
