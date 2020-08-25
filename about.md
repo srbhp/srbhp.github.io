@@ -21,30 +21,29 @@ Some recent and ongoing research topics include:
 
 2005 - 2008
 
-B.Sc. in Physics
-Ramakrishna Mission Vidyamandira
-Belur Math
+    B.Sc. in Physics
+    Ramakrishna Mission Vidyamandira
+    Belur Math
 
 2008 - 2015
 
-Integrated Ph.D. in Physics
-Harish-Chandra Research Institute, India
+    Integrated Ph.D. in Physics
+    Harish-Chandra Research Institute, India
 
 
 ### Work Experience
 
 11.2015 - 01.2020
 
-Postdoctoral Fellow
-Uppsala University, Sweden
+    Postdoctoral Fellow
+    Uppsala University, Sweden
 
 
 ## Contact
 
 ### Emails
 
-Gmail : pradhanphy
-
-(You have to guess the @'part )
+  Gmail : pradhanphy
+  (You have to guess the @'part )
 
 
