@@ -9,17 +9,6 @@ Here is list of my publictions.
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=THqtHBEAAAAJ)
 
- <ol>
-  <li>  <span class="textbf">Strongly anharmonic collective modes in a coupled electron-phonon-spin problem</span>
-
-    Sauri Bhattacharyya, Sankha Subhra Bakshi, Saurabh Pradhan, Pinaki Majumdar
-
-    <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.125130"> Physical Review B 101 (12), 125130 </a>
- </li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol> 
-
 
 1.  <span class="textbf">Strongly anharmonic collective modes in a coupled electron-phonon-spin problem</span>
 
@@ -27,7 +16,7 @@ Here is list of my publictions.
 
     [Physical Review B 101 (12), 125130](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.101.125130)
 
-2.  <span class="textbf">Investigation of the Yu-Shiba-Rusinov states of a multi-impurity Kondo system</span>
+1.  <span class="textbf">Investigation of the Yu-Shiba-Rusinov states of a multi-impurity Kondo system</span>
 A. Kamlapure, L. Cornils, R. Žitko, M. Valentyuk, R. Mozara, S. Pradhan, J. Fransson, A. I. Lichtenstein, J. Wiebe, R. Wiesendanger
 [arXiv:1911.03794](https://arxiv.org/abs/1911.03794)
 3.  <span class="textbf">Identification of topological superconductivity in magnetic impurity systems using bulk spin-polarization</span>
