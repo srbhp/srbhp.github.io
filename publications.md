@@ -9,6 +9,11 @@ Here is list of my publictions.
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=THqtHBEAAAAJ)
 
+1.  Yu-Shiba-Rusinov states of a single magnetic molecule in an s-wave superconductor
+
+    Saurabh Pradhan and Jonas Fransson
+    
+    [Phys. Rev. B 102, 085136 (2020)] (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085136)
 
 1.  <span class="textbf">Strongly anharmonic collective modes in a coupled electron-phonon-spin problem</span>
 
@@ -25,7 +30,7 @@ Here is list of my publictions.
     
     Mahdi Mashkoori, Saurabh Pradhan, Kristofer Björnson, Jonas Fransson, Annica M. Black-Schaffer
     
-    [arXiv:1906.02639](https://arxiv.org/abs/1906.02639)
+    [Physical Review B 102, 104501 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.104501)
 4.  <span class="textbf">Time-dependent potential impurity in topological insulator</span>
     
     Saurabh Pradhan and Jonas Fransson
