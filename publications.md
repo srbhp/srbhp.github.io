@@ -67,9 +67,8 @@ List of publictions.
     Saurabh Pradhan and G. Venketeswara Pai
     
     [Phys. Rev. B <span class="textbf">92</span>, 165124 (2015)](https://link.aps.org/doi/10.1103/PhysRevB.92.165124)
-11. <span class="textbf">Proximity induced superconductivity in Weyl semi-metals
-    
-    </span>Udit Khanna, Arijit Kundu, Saurabh Pradhan and Sumathi Rao
+11. <span class="textbf">Proximity induced superconductivity in Weyl semi-metals  </span>
+    Udit Khanna, Arijit Kundu, Saurabh Pradhan and Sumathi Rao
     
     [Phys. Rev. B <span class="textbf">90</span>, 195430 (2014)](http://arxiv.org/abs/1407.7515)
 12. <span class="textbf">Transport and STM studies of hyperbolic surface states of topological insulators</span>
