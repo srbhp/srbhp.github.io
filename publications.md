@@ -13,7 +13,7 @@ Here is list of my publictions.
 
     Saurabh Pradhan and Jonas Fransson
     
-    [Phys. Rev. B 102, 085136 (2020)] (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085136)
+    [Phys. Rev. B 102, 085136 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085136)
 
 1.  <span class="textbf">Strongly anharmonic collective modes in a coupled electron-phonon-spin problem</span>
 
