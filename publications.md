@@ -41,9 +41,9 @@ List of publictions.
     Sauri Bhattacharyya, Saurabh Pradhan, Pinaki Majumdar
     
     [<span class="textit">arXiv</span>: 1806.06577](https://arxiv.org/abs/1806.06577)
-6.  <span class="textbf">Effect of site dilution in the two-dimensional attractive Hubbard model
+6.  <span class="textbf">Effect of site dilution in the two-dimensional attractive Hubbard model </span>
     
-    </span>Saurabh Pradhan and G. Venketeswara Pai
+    Saurabh Pradhan and G. Venketeswara Pai
     
     [Phys. Rev. B <span class="textbf">98</span>, 165142 (2018)](https://arxiv.org/abs/1511.00380)
 7.  <span class="textbf">Non-equillibrium Current noise in molecular quantum-spin tunneling systems</span>
@@ -57,12 +57,13 @@ List of publictions.
     Sauri Bhattacharyya, Saurabh Pradhan and Pinaki Majumdar
     
     [<span class="textit">arXiv</span> : 1711.08749](https://arxiv.org/abs/1711.08749)
-9.  <span class="textbf">Spin-resolved spectroscopy of the Yu-Shiba-Rusinov states of individual atoms
+9.  <span class="textbf">Spin-resolved spectroscopy of the Yu-Shiba-Rusinov states of individual atoms  </span>
     
-    </span>L. Cornils, A. Kamlapure, L. Zhou, S. Pradhan, A. A. Khajetoorians, J. Fransson, J. Wiebe, and R. Wiesendanger
+    L. Cornils, A. Kamlapure, L. Zhou, S. Pradhan, A. A. Khajetoorians, J. Fransson, J. Wiebe, and R. Wiesendanger
     
     [Phys. Rev. Lett. <span class="textbf">119</span>, 197002 (2017)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.197002)
-10. <span class="textbf">Holstein-Hubbard model at half filling : a static auxiliary field study</span>
+    
+10. <span class="textbf"> Holstein-Hubbard model at half filling : a static auxiliary field study </span>
     
     Saurabh Pradhan and G. Venketeswara Pai
     
