@@ -6,7 +6,7 @@ title: About
 
 
 <p class="message">
-I am a postdoctoral researcher at Uppsala University in Prof. Jonas Fransson's group. Currently, I am visiting the Freie Universität, Berlin.
+I am a postdoctoral researcher at Technische Universität Dortmund, Germany.
 </p>
 
 Some recent and ongoing research topics include:
