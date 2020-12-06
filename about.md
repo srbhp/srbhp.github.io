@@ -38,6 +38,11 @@ Some recent and ongoing research topics include:
     Postdoctoral Fellow
     Uppsala University, Sweden
 
+09.2020 - 
+
+    Postdoctoral Fellow
+    Technische Universität Dortmund, Germany
+
 
 ## Contact
 
