@@ -1,0 +1,52 @@
+---
+layout: page
+title: About
+---
+
+
+
+<p class="message">
+I am a postdoctoral researcher at Technische Universität Dortmund, Germany.
+</p>
+
+Some recent and ongoing research topics include:
+
+- Magnetic Impurities in a superconductor.
+- Impurities Topological Insulator
+- Collective modes in a disordered superconductor
+
+
+### Educational Qualifications
+
+
+2005 - 2008
+
+    B.Sc. in Physics
+    Ramakrishna Mission Vidyamandira
+    Belur Math
+
+2008 - 2015
+
+    Integrated Ph.D. in Physics
+    Harish-Chandra Research Institute, India
+
+
+### Work Experience
+
+11.2015 - 01.2020
+
+    Postdoctoral Fellow
+    Uppsala University, Sweden
+
+09.2020 - 
+
+    Postdoctoral Fellow
+    Technische Universität Dortmund, Germany
+
+
+## Contact
+
+### Emails
+
+  Gmail : pradhanphy
+  (You have to guess the @'part )
