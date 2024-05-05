@@ -28,7 +28,7 @@ financial risk. But that's just the tip of the iceberg.
 
 
 
-**Here are the some of the things that I worked on in the past **
+**Here are the some of the things that I worked on in the past**
 
  - Numerical Renormalization Group (NRG) and slave-boson mean field theory for magnetic impurity in a BCS superconductor 
  - Non-equilibrium molecular spin systems, Keldysh formalism 
