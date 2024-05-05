@@ -84,6 +84,3 @@ List of publictions.
     [Phys. Rev. A <span class="textbf">84</span>, 042334 (2011)](http://pra.aps.org/abstract/PRA/v84/i4/e042334)
 
 
-
-
-
