@@ -4,18 +4,17 @@ title: Home
 ---
 
 
-Hey there, welcome to my digital playground! I’m all about crunching numbers,
-diving into data, and harnessing the power of machine learning to make sense 
-of the financial world.
+Welcome to my personal website. I specialize in data analysis, 
+numerical computation, and leveraging machine learning to 
+interpret and predict trends within the financial sector.
 
-Back in the day, I was knee-deep in theoretical physics, earning my stripes 
-with a PhD and bouncing around institutions like the Technical University 
-of Dortmund and Uppsala University. But then, I made the leap into the 
-wild world of finance, landing a gig at Deutsche Bank.
+I began my journey in theoretical physics, earning a PhD and
+completing postdoctoral research at institutions such as the
+Technical University of Dortmund, Germany and Uppsala University, Sweden. 
 
-Nowadays, you'll find me in the trenches as a Model Developer, cooking up all
-sorts of clever algorithms and models to tackle the ever-shifting landscape of
-financial risk. But that's just the tip of the iceberg.
+My career transitioned into finance, where I joined Deutsche Bank.
+Currently, I work as a Model Developer, creating algorithms and 
+models to navigate the complex and dynamic world of financial risk.
 
 
 **Here are some of projects that I work on in my free time.**
@@ -28,7 +27,7 @@ financial risk. But that's just the tip of the iceberg.
 
 
 
-**Here are the some of the things that I worked on in the past**
+**Here are the some of topics that I worked on in the past**
 
  - Numerical Renormalization Group (NRG) and slave-boson mean field theory for magnetic impurity in a BCS superconductor 
  - Non-equilibrium molecular spin systems, Keldysh formalism 
